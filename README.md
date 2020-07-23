@@ -1,11 +1,8 @@
 ## Disco Recruitment
-[![Build Status](https://travis-ci.org/netyjq/spring-boot-archetype.svg?branch=master)](https://travis-ci.org/netyjq/spring-boot-archetype)
-
-[中文文档](https://github.com/netyjq/spring-boot-archetype/blob/master/README-CN.md)
 
 ### Introduction
 
-Fix this project 
+Fix this project and submit a pull request 
 
 ### Properties
 - packaged to jar or war according to active profile 
