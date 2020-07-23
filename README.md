@@ -50,3 +50,4 @@ And how to use Maven Archetype:
 
 
 # java-ad
+# java-ad
